@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Department & Clinic Webpage</title>
+</head>
+
+<body bgcolor="#f0f8ff">
+
+    <!-- ================= COLLEGE DEPARTMENT SECTION ================= -->
+
+    <h1 align="center">Department of Computer Science &amp; Engineering</h1>
+    <h2 align="center">SIT Sitamarhi</h2>
+
+    <p>
+        The Department of Computer Science &amp; Engineering was established in 2017.
+        Our mission is to provide quality education &amp; promote innovation in technology.
+        We believe in excellence &amp; dedication &copy; 2026.
+    </P>
+    <p>
+        The department offers various programs with experienced faculty members
+        and well-equipped laboratories for practical learning.
+    </p>
+
+    <h3>Programs Offered</h3>
+    <ol>
+        
+        <li>B.Tech (Computer Science &amp; Engineering)</li>
+        <li>B.Tech (Mechanical Engineering)</li>
+        <li>B.Tech (Electrical Engineering)</li>
+        <li>B.Tech (Civil Engineering)</li>
+       
+    </ol>
+
+    <h3>Laboratories</h3>
+    <ul>
+        <li>Programming Lab</li>
+        <li>Database Management Lab</li>
+        <li>Networking Lab</li>
+        <li>Artificial Intelligence Lab</li>
+    </ul>
+
+    <h3>Faculty Roles</h3>
+    <dl>
+        <dt>Professor</dt>
+        <dd>Senior faculty responsible for research &amp; academic leadership.</dd>
+
+        <dt>Associate Professor</dt>
+        <dd>Supports teaching, research &amp; student guidance.</dd>
+
+        <dt>Assistant Professor</dt>
+        <dd>Handles lectures, lab sessions &amp; mentoring.</dd>
+
+        <DT>Mentors</DT>
+        <dd>We have also have dedicated mentors to students</dd>
+    </dl>
+
+
+
+    <!-- ================= CLINIC SECTION ================= -->
+
+    <h1 align="center"><b>City Care Clinic</b></h1>
+
+    <marquee behavior="scroll" direction="left">
+        <b>Free Health Checkup Camp on Sunday! Visit Now!</b>
+    </marquee>
+
+    <p>
+        <b>City Care Clinic</b> provides quality healthcare services.
+        We specialize in <i>General Medicine</i>, <u>Pediatrics</u> and 
+        <mark>24/7 Emergency Care</mark>.
+    </p>
+
+    <p>
+        <strong>Doctor Timings:</strong><br>
+        Monday - Saturday: 9:00 AM - 8:00 PM<br>
+        Sunday: 10:00 AM - 2:00 PM
+    </p>
+
+    <p><b>FOR Emergency AMULANCE CONTACT : 9264431017</b></p>
+
+    <P><B>ALSO WE HAVE DEDECATED MEDICAL ROOM IN OUR ACADEMIC BUILDING</B>
+    
+
+   
+    <hr>
+
+    <!-- ================= IMAGE & IFRAME SECTION ================= -->
+
+    <h1 align="center">Our College Campus</h1>
+
+    <img src="collage.jpg" alt="College Campus" width="600" height="300">
+
+    <p>
+        Our campus has modern classrooms, digital labs, and a peaceful learning environment.
+    </p>
+
+
+    <h2>College Location Map</h2>
+
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14276.189576820905!2d85.5509063!3d26.5507453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ecf763131c697d%3A0x342c7bc8d25b82b8!2sSitamarhi%20Institute%20Of%20Technology%20(SIT)%2C%20Sitamarhi!5e0!3m2!1sen!2sin!4v1766113903450!5m2!1sen!2sin" width="900" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+           
+    </iframe>
+<p>PIYUSH RAJ</P>
+<p>25105127013</P>
+
+</body>
+</html>
